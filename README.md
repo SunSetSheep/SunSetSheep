@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lorraine Warren 😀
 
-<!--
-**SunSetSheep/SunSetSheep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me:
+- Final Year Computing Technologies Student @UlsterUniversity (**Graduate July 2025**)
+- Experience with .Net 8 (ASP.NET Web Applications Razor Pages)
+  - Bootstrap
+  - Entity Framework / EF Core
+  - SQL Server
+  - Visual Studio + Visual Studio Code
+  - Working with APIs (Google Maps)
+  - Entity Framework ( User accounts)
+ 
+## Currently Learning :
+- Creating Minimal APIs in .Net
+- Building ETLS (Extract, Transform, and Load processes) .Net and Python
+- Blazor Web Applications
 
-Here are some ideas to get you started:
+## Hobbies :
+🥾 Hiking
+🎮 Gaming
+📷 Photography
+🧁 Baking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
